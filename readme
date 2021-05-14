@@ -1,2 +1,4 @@
 This code is created for a course in software testing. It runs a website in a Docker-Selenium Grid, hub-node setup. 
+
+There is only one java-file available so it should be easy to find even if the name is a mouthfull. 
 Authors are PositivaJag and 
